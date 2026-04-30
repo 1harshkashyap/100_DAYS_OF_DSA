@@ -72,4 +72,4 @@ int main() {
     printf("%d\n", totalWeight);
 
     return 0;
-}
+}// commit 78
